@@ -1,4 +1,4 @@
-## 🎟️ Smart Event Booking System
+               ## 🎟️ Smart Event Booking System
 
 A full-stack MERN-style project where users can browse events, filter by city, view event details, and book seats with instant QR-code confirmation.
 
@@ -54,8 +54,11 @@ MySQL
 - bookings
 
   ## 📂 Project Structure
+
+  ```pqsql
   smart-event-booking/
-│
+│```
+```
 ├── frontend/
 │   ├── public/
 │   │   └── images/
@@ -76,6 +79,9 @@ MySQL
 │   └── package.json
 │
 └── README.md
+```
+
+
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone the repository
@@ -217,7 +223,7 @@ Response:
 
 
 
-###🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 - User authentication (JWT)
 
