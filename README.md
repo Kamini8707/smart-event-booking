@@ -5,7 +5,7 @@ A full-stack MERN-style project where users can browse events, filter by city, v
 ## 📸 Project Preview 
 
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🏠 Home Page
 ![Home](./screenshots/home.png)
