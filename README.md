@@ -2,6 +2,11 @@
 
 A full-stack MERN-style project where users can browse events, filter by city, view event details, and book seats with instant QR-code confirmation.
 
+📸 Project Preview (Screenshots)
+
+Replace these image paths with your actual screenshot filenames
+(Place screenshots in a /screenshots folder)
+
 🚀 Live Features
 
 ✔ Browse events by city (Jhansi, Gwalior, Lucknow, Kanpur, Indore, Delhi, Agra, Gurgaon, Noida)
@@ -28,21 +33,21 @@ A full-stack MERN-style project where users can browse events, filter by city, v
 
 
 
-Backend
+### Backend
 
-Node.js (Express)
+- Node.js (Express)
 
-MySQL2 (Promise pool)
+- MySQL2 (Promise pool)
 
-dotenv
+- dotenv
 
-CORS
+- CORS
 
-Database
+### Database
 
 MySQL
 
-Tables:
+### Tables:
 
 events
 
