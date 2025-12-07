@@ -1,11 +1,27 @@
-               ## 🎟️ Smart Event Booking System
+# 🎟️ Smart Event Booking System
 
 A full-stack MERN-style project where users can browse events, filter by city, view event details, and book seats with instant QR-code confirmation.
 
 #3 📸 Project Preview (Screenshots)
 
-Replace these image paths with your actual screenshot filenames
-(Place screenshots in a /screenshots folder)
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./screenshots/home.png)
+
+### 🔍 Events List
+![Events](./screenshots/events.png)
+
+### 🎫 Event Details
+![Details](./screenshots/details.png)
+
+### 💳 Checkout Page
+![Checkout](./screenshots/checkout.png)
+
+### ✅ Booking Success (QR Code)
+![Success](./screenshots/success.png)
+
 
 #3 🚀 Live Features
 
@@ -182,7 +198,7 @@ CREATE TABLE bookings (
 ### 📡 API Endpoints
 GET /api/events
 
-Fetch all events
+#### Fetch all events
 Response:
 ```json
 [
@@ -190,11 +206,11 @@ Response:
 ]
 ```
 
-GET /api/events/:id
+#### GET /api/events/:id
 
 Fetch a single event
 
-POST /api/bookings
+#### POST /api/bookings
 
 Create a booking
 Payload:
