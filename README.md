@@ -2,7 +2,7 @@
 
 A full-stack MERN-style project where users can browse events, filter by city, view event details, and book seats with instant QR-code confirmation.
 
-#3 📸 Project Preview (Screenshots)
+## 📸 Project Preview 
 
 
 ## 📸 Screenshots
